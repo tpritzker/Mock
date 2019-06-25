@@ -5,5 +5,5 @@ python:
 install:
   - pip install numpy
 # command to run tests
-#script:
-#  - pytest
+script:
+  - pytest
