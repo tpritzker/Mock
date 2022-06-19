@@ -1,3 +1,5 @@
 import streamlit as st
 
-header = "Hello World"
+st.title("I did this from my phone")
+st.header("It took me 30 minutes")
+
